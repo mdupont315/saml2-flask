@@ -6,8 +6,6 @@ flask-saml2
     but I no longer work on the project this was built for. If you are interested in taking over leadership
     and maintenance of this project, please get in touch.
 
-.. image:: https://travis-ci.com/timheap/flask-saml2.svg?branch=master
-    :target: https://travis-ci.com/timheap/flask-saml2
 .. image:: https://badge.fury.io/py/flask-saml2.svg
     :target: https://pypi.org/project/flask-saml2/
 .. image:: https://readthedocs.org/projects/flask-saml2/badge/?version=latest
@@ -52,7 +50,7 @@ the dependencies:
 
 .. code-block:: console
 
-    $ git clone https://github.com/timheap/flask-saml2
+    $ git clone https://github.com/Senguly/saml2-flask.git
     $ cd flask-saml2
     $ python3 -m venv venv
     $ source venv/bin/activate
